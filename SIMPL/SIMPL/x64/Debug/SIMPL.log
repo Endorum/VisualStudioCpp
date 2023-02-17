@@ -1,0 +1,9 @@
+﻿  SIMPL.cpp
+C:\Users\alexa\source\repos\SIMPL\SIMPL\SIMPL.cpp(68,9): warning C4101: "B": Unreferenzierte lokale Variable
+C:\Users\alexa\source\repos\SIMPL\SIMPL\SIMPL.cpp(68,18): warning C4101: "P": Unreferenzierte lokale Variable
+C:\Users\alexa\source\repos\SIMPL\SIMPL\SIMPL.cpp(67,6): warning C4101: "RAM": Unreferenzierte lokale Variable
+C:\Users\alexa\source\repos\SIMPL\SIMPL\SIMPL.cpp(68,21): warning C4101: "S": Unreferenzierte lokale Variable
+C:\Users\alexa\source\repos\SIMPL\SIMPL\SIMPL.cpp(68,15): warning C4101: "D": Unreferenzierte lokale Variable
+C:\Users\alexa\source\repos\SIMPL\SIMPL\SIMPL.cpp(68,6): warning C4101: "A": Unreferenzierte lokale Variable
+C:\Users\alexa\source\repos\SIMPL\SIMPL\SIMPL.cpp(68,12): warning C4101: "C": Unreferenzierte lokale Variable
+  SIMPL.vcxproj -> C:\Users\alexa\source\repos\SIMPL\x64\Debug\SIMPL.exe
