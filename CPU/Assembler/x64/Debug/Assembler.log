@@ -1,0 +1,4 @@
+﻿  Assembler.cpp
+C:\Users\alexa\source\repos\CPU\Assembler\Assembler.cpp(83,19): warning C4244: "Initialisierung": Konvertierung von "__int64" in "int", möglicher Datenverlust
+C:\Users\alexa\source\repos\CPU\Assembler\Assembler.cpp(122): warning C4715: "getAddressFromLabel": Nicht alle Codepfade geben einen Wert zurück.
+  Assembler.vcxproj -> C:\Users\alexa\source\repos\CPU\x64\Debug\Assembler.exe

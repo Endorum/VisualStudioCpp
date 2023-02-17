@@ -1,0 +1,7 @@
+﻿  CPU.cpp
+C:\Users\alexa\source\repos\CPU\CPU\CPU.cpp(1119,50): warning C4244: "Argument": Konvertierung von "unsigned int" in "float", möglicher Datenverlust
+C:\Users\alexa\source\repos\CPU\CPU\CPU.cpp(1488,36): warning C4244: "Argument": Konvertierung von "unsigned int" in "float", möglicher Datenverlust
+C:\Users\alexa\source\repos\CPU\CPU\CPU.cpp(1506,36): warning C4244: "Argument": Konvertierung von "unsigned int" in "float", möglicher Datenverlust
+C:\Users\alexa\source\repos\CPU\CPU\CPU.cpp(1514,36): warning C4244: "Argument": Konvertierung von "unsigned int" in "float", möglicher Datenverlust
+C:\Users\alexa\source\repos\CPU\CPU\CPU.cpp(305): warning C4715: "fmul": Nicht alle Codepfade geben einen Wert zurück.
+  CPU.vcxproj -> C:\Users\alexa\source\repos\CPU\x64\Debug\CPU.exe
